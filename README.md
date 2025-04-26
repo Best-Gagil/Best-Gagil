@@ -64,8 +64,6 @@
 
 ### 🤝🏻 &nbsp;Connect with Me
 
-Aquí está el código actualizado con tus datos:
-
 <p align="center">
 <a href="https://www.linkedin.com/in/guillermo-aguilera-hurtado-158208205/"><img src="https://img.shields.io/badge/-Guillermo%20Aguilera-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:guillermo.andres.aguilera@gmail.com"><img src="https://img.shields.io/badge/-guillermo.andres.aguilera-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
